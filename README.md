@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @adnan8914
 - 👀 I’m interested in web development and  c/c++ related programming
 - 🌱 I’m currently learning web development 
-- 💞️ I’m looking to collaborate on github
-- 📫 How to reach me my mail madnan8914@gmail.com
--     I am curently a Btech CSE student
+- 💞️ I’m looking to collaborate on web development and software development 
+- 📫 How to reach me  madnan8914@gmail.com
